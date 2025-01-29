@@ -12,16 +12,16 @@
 
 ## **Features**
 
-- **Classic Space Shooter Gameplay**
+- **Classic Space Shooter Gameplay**   
 Players control a spaceship that can move left and right, shooting at descending aliens.
 
-- **Alien AI**
+- **Alien AI**   
 Aliens move in formations and gradually increase their speed as they descend toward the player. If they reach the bottom of the screen, they will attack the player's base.
 
-- **Projectile Mechanics**
+- **Projectile Mechanics**   
 Players fire bullets that hit enemies, destroying them. Each enemy destroyed increases the player's score.
 
-- **Simple User Interface**
+- **Simple User Interface**   
 Displays score and player lives, providing feedback to the player.
 
 ---
@@ -36,7 +36,7 @@ Displays score and player lives, providing feedback to the player.
 
 ## **Screenshots / GIFs**
 
-![SpaceInvaders1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
+![SpaceInvaders1](https://github.com/Mecha-NOX/Retro-Space-Invaders/blob/e460ed9f2bd8a924916e01f398c5ac20d4026821/GIFs/Space-Invaders_HighRes.gif)
 
 ---
 
